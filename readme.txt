@@ -1,1 +1,1 @@
-This is the first readme.
+This project contains the result of modifying a procedural application into OOP one.
