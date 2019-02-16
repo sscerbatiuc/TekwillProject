@@ -1,4 +1,4 @@
-package calculator2;
+package root;
 
 /**
  * This is a class that contains geometry operations.

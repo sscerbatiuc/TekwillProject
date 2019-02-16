@@ -1,4 +1,4 @@
-package calculator2;
+package root;
 
 public class Algebra { 
 
