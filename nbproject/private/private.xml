@@ -5,24 +5,6 @@
         <group>
             <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/Calculator2/src/calculator2/Calculator2.java</file>
         </group>
-        <group name="Tekwill">
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/root/initialization/overload/ambiguity/Person.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/person/Person.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/object/operations/modifiers/def/DefaultDemo.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/root/initialization/ClassWithInstanceInitializationBlocks.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/person/Countable.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/root/initialization/overload/arguments/type/SumCalculator.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/root/initialization/DefaultValues.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/person/StringDemo.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/person/PersonDemo.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/person/EqualityDemo.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/root/initialization/FinalAttributes.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/root/initialization/overload/ambiguity/SumCalculator.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/person/CountableDemo.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/root/initialization/overload/ambiguity/AmbiguousSumCalculator.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/root/initialization/ArrayInit.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/root/initialization/overload/arguments/length/SumCalculator.java</file>
-            <file>file:/C:/Users/sscerbatiuc.INTHER/Documents/NetBeansProjects/ClassDemo/src/root/initialization/ClassWithStaticInitializationBlocks.java</file>
-        </group>
+        <group name="Tekwill"/>
     </open-files>
 </project-private>
